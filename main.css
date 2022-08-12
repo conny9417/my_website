@@ -1,0 +1,72 @@
+body {
+    background-color: rgba(239, 240, 240, 0.178);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+
+
+#nav{
+    height: 100px;
+    background-color: rgb(41, 9, 9) ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+
+#nav a {
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+}
+
+
+#nav a:hover {
+    color: pink;
+    
+
+}
+
+h1 {
+    color: rgb(41, 9, 9);
+    font-size: 60px;
+}
+
+.home_header {
+    color: rgb(41, 9, 9);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+.wrapper{
+
+
+color: white;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: rgb(41, 9, 9);
+
+}
+
+
+p { width: 1500px;
+
+    font-size: 25px;
+    
+}
+
+
+#nav a p {
+    color: black;
+}
+
+
+.donation_wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+
